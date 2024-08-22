@@ -16,6 +16,7 @@ My goal is to leverage my skills in cybersecurity and technical problem-solving 
 | Penetration Testing and Vulnerability Exploitation | [Globitek Pen Test](https://github.com/AJ-K0M/Pen-Testing-Live-Targets) |
 | Facial Recognition for Cybersecurity          | [Facial Recognition](https://github.com/AJ-K0M/Face-Recognition) |
 |Hand Gesture-Controlled Drone with Secure Communication  | [Drone Hand Gestures](https://github.com/AJ-K0M/Hand-Gesture-Controlled-Drone-with-Secure-Communication) |
+|Web Vulnerability Scanning  | [WebVulnScanner](https://github.com/AJ-K0M/WebVulnScanner) |
 
 ## Tools
 
@@ -36,6 +37,15 @@ My goal is to leverage my skills in cybersecurity and technical problem-solving 
     <img src="https://img.shields.io/badge/-Metasploit-7F8C8D?&style=for-the-badge&logo=Metasploit&logoColor=white" />
 </div>
 
+### Programming Tools
+<div>
+    <img src="https://img.shields.io/badge/-Perl-0298C3?&style=for-the-badge&logo=Perl&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+</div>
+
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
@@ -46,4 +56,5 @@ My goal is to leverage my skills in cybersecurity and technical problem-solving 
 - [Globitek Penetration Testing](https://github.com/your-repo/globitek-pen-test)
 - [Facial Recognition for Cybersecurity](https://github.com/AJ-K0M/Pen-Testing-Live-Targets)
 - [Hand Gesture-Controlled Drone with Secure Communication](https://github.com/AJ-K0M/Hand-Gesture-Controlled-Drone-with-Secure-Communication)
+- [WebVulnScanner](https://github.com/AJ-K0M/WebVulnScanner)
 
