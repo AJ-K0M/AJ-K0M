@@ -15,7 +15,7 @@ My goal is to leverage my skills in cybersecurity and technical problem-solving 
 | Honeypot Deployment and Analysis              | [Honeypot Deployment](https://github.com/AJ-K0M/Honeypot) |
 | Penetration Testing and Vulnerability Exploitation | [Globitek Pen Test](https://github.com/AJ-K0M/Pen-Testing-Live-Targets) |
 | Facial Recognition for Cybersecurity          | [Facial Recognition](https://github.com/AJ-K0M/Face-Recognition) |
-|Hand Gesture-Controlled Drone with Secure Communication  | [Drone Hand Gestures](https://github.com/AJ-K0M/Hand-Gesture-Controlled-Drone-with-Secure-Communication/blob/main/handgesture.py) |
+|Hand Gesture-Controlled Drone with Secure Communication  | [Drone Hand Gestures](https://github.com/AJ-K0M/Hand-Gesture-Controlled-Drone-with-Secure-Communication) |
 
 ## Tools
 
@@ -45,8 +45,5 @@ My goal is to leverage my skills in cybersecurity and technical problem-solving 
 - [Honeypot Deployment and Analysis](https://github.com/AJ-K0M/Honeypot)
 - [Globitek Penetration Testing](https://github.com/your-repo/globitek-pen-test)
 - [Facial Recognition for Cybersecurity](https://github.com/AJ-K0M/Pen-Testing-Live-Targets)
-- [Hand Gesture-Controlled Drone with Secure Communication](https://github.com/AJ-K0M/Hand-Gesture-Controlled-Drone-with-Secure-Communication/blob/main/handgesture.py)
+- [Hand Gesture-Controlled Drone with Secure Communication](https://github.com/AJ-K0M/Hand-Gesture-Controlled-Drone-with-Secure-Communication)
 
----
-
-Feel free to update the links to your actual GitHub repositories and adjust any other details as needed.
