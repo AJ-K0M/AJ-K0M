@@ -6,7 +6,7 @@
 I am currently an undergraduate student with a profound interest in technology and a dedication to solving complex problems. My journey in Information Systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Objective
-My goal is to leverage my skills in cybersecurity and technical problem-solving to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst, focusing on proactive threat detection and incident response.
+My goal is to leverage my skills in cybersecurity and technical problem-solving to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst, focusing on proactive threat detection, incident response and identity and access management.
 
 ## Skills
 
