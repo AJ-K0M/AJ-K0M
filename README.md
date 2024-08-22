@@ -1,9 +1,5 @@
-Got it! Here’s the updated markdown template with the skills section matching the projects:
-
----
-
 # Hello, I'm Patrick Omodara
-<a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/omodarap"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
